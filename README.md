@@ -1,63 +1,55 @@
-# Python Projects
+# Beginner Python Projects
 
-Welcome to the **Python Projects** repository! This repository contains a collection of Python projects ranging from beginner to advanced levels. Each project includes a brief description, setup instructions, and examples of usage.
+Welcome to my collection of beginner Python projects! This repository is a work in progress as I continue to learn and develop my programming skills. Each project here is designed to tackle different aspects of Python programming, from basic syntax to more complex concepts.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Projects](#projects)
   - [Project 1: Hello World](#project-1-hello-world)
-  - [Project 2: Sims 4 Quiz Game](#project-2-to-do-list-application)
-  - [Project 3: Banking Program](#project-3-simple-web-scraper)
-  - [Project 4: Data Analysis with Pandas](#project-4-data-analysis-with-pandas)
-  - [Project 5: Machine Learning Model](#project-5-machine-learning-model)
-- [Installation](#installation)
-- [Usage](#usage)
+  - [Project 2: Quiz Game](#project-2-basic-calculator)
+  - [Project 3: Simple To-Do List](#project-3-simple-to-do-list)
+  - [Project 4: Number Guessing Game](#project-4-number-guessing-game)
+  - [Project 5: Contact Book](#project-5-contact-book)
+- [How to Run](#how-to-run)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
 
-This repository is intended to showcase various Python projects that I have worked on. It serves as a portfolio to demonstrate my coding skills and my ability to work on different types of projects.
+This repository contains a variety of small projects that I've created as part of my journey to learn Python. Each project includes a brief description, the concepts it covers, and the source code. Feel free to explore, use, and modify these projects as you like!
 
 ## Projects
 
 ### Project 1: Hello World
 
-**Description**: A simple script that prints "Hello, World!" to the console.
+**Description:** A simple program that prints "Hello, World!" to the console.  
+**Concepts Covered:** Basic syntax, print statement.
 
-**File**: `hello_world.py`
+### Project 2: Quiz Game
 
-### Project 2: Simple Sims 4 Quiz Game
+**Description:** A simple Sims 4 Quizzing Game that calculates the final score and gives a percentage 
+**Concepts Covered:** Variables, user input, conditional tests.
 
-**Description**: A simple script that asks 4 Sims 4 questions with a score and percentage
+### Project 3: Simple To-Do List
 
-**File**: `quiz_game.py`
+**Description:** A command-line to-do list application that allows users to add, view, and remove tasks.  
+**Concepts Covered:** Lists, loops, functions, user input.
 
-### Project 3: Banking Program
+### Project 4: Number Guessing Game
 
-**Description**: A script that allows user to deposit and withdraw money into their bank account
+**Description:** A game where the player has to guess a randomly generated number within a certain range.  
+**Concepts Covered:** Random module, conditionals, loops.
 
-**File**: `bank.py`
+### Project 5: Contact Book
 
-### Project 4: Data Analysis with Pandas
+**Description:** A simple contact book application that allows users to store and retrieve contact information.  
+**Concepts Covered:** Dictionaries, file handling, functions.
 
-**Description**: A project that demonstrates data analysis using the Pandas library.
+## How to Run
 
-**File**: `data_analysis.ipynb`
+To run any of the projects, follow these steps:
 
-### Project 5: Machine Learning Model
-
-**Description**: A machine learning project that predicts housing prices using scikit-learn.
-
-**File**: `machine_learning_model.ipynb`
-
-## Installation
-
-To run these projects, you need to have Python installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
-
-You can clone this repository using the following command:
-
-```sh
-git clone https://github.com/yourusername/python-projects.git
+1. Clone this repository to your local machine using:
+   ```bash
+   git clone https://github.com/ToluOlorode/PythonProjects.git
