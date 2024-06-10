@@ -28,7 +28,7 @@ This repository contains a variety of small projects that I've created as part o
 
 ### Project 2: Quiz Game
 
-**Description:** A simple Sims 4 Quizzing Game that calculates the final score and gives a percentage 
+**Description:** A simple Sims 4 Quizzing Game that calculates the final score and gives a percentage.
 **Concepts Covered:** Variables, user input, conditional tests.
 
 ### Project 3: Simple To-Do List
