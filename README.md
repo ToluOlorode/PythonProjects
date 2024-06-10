@@ -8,7 +8,7 @@ Welcome to my collection of beginner Python projects! This repository is a work 
 - [Projects](#projects)
   - [Project 1: Hello World](#project-1-hello-world)
   - [Project 2: Quiz Game](#project-2-basic-calculator)
-  - [Project 3: Simple To-Do List](#[todo.py](https://github.com/ToluOlorode/PythonProjects/blob/main/todo.py))
+  - [[Project 3: Simple To-Do List](#project-3-simple-to-do-list)
   - [Project 4: Number Guessing Game](#project-4-number-guessing-game)
   - [Project 5: Contact Book](#project-5-contact-book)
 - [How to Run](#how-to-run)
