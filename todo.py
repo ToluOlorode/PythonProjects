@@ -46,9 +46,9 @@ def taskdone():
         completed_task = int(input("\nWhat Number Task would you like removed? "))
         if 1 <= completed_task <= len(todo_tasks):
             completed_task = todo_tasks.pop(completed_task - 1)
-            print(f"Task '{completed_task.title()}' has been removed from your list!")
+            print(f"The Task '{completed_task.title()}' has been removed from your list!")
         else:
-            print("Unable to remove any Tasks, Please enter a number from 1 to the number of tasks in your list.")
+            print("Unable to remove any Tasks, Please enter a number from 1 to the number of Tasks in your list.")
             
     
 
