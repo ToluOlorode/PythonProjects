@@ -2,6 +2,7 @@ import random
 
 def guess(x):
     random_number = random.randint(1, x)
+    print(f"I am thinking of a number between 1 and {x}")
     
     guess = 0
     
