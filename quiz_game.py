@@ -26,7 +26,7 @@ if answer.lower() == "city living":
 else:
     print("Incorrect!")
     
-answer = input("\nWhich of the following careers is NOT a base game career option in 'The Sims 4'? ")
+answer = input("\nWhich of the following careers is NOT a base game career option in 'The Sims 4'? Astronaut, Entertainer, Detective or Style Influencer? ")
 
 if answer.lower() == "detective":
     print("Correct!")
@@ -42,5 +42,5 @@ if answer.lower() == "traits":
 else:
     print("Incorrect!")
     
-print(f"You got {score} questions correct!") 
+print(f"You got {score} questions correct!") # or you got + str(score) + questions correct!
 print(f"You got {score / 4 * 100}%")
