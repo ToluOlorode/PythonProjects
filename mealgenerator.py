@@ -12,7 +12,7 @@ print("Don't know what to eat? Let us decide for you!")
 
 while True:
     ### User Input
-    user = input("Type 'random' for a random meal: ")
+    user = input("Type 'random' for a random meal: ").strip().lower()
     
     if user.lower() == 'random':
         selections = random.choice(meals)
@@ -21,7 +21,7 @@ while True:
     else:
         print("Please only input random.")
     
-    repeat = input("Would you like another choice? (yes/no): ")
+    repeat = input("Would you like another choice? (yes/no): ").strip().lower()
     if repeat == 'no':
         print("Thank you for using the Random Meal Generator! I hope it was useful!")
         break
